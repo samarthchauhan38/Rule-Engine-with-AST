@@ -1,3 +1,4 @@
+![Screenshot 2024-10-18 220119](https://github.com/user-attachments/assets/b07d368e-2eb8-4322-be77-7cbf0ea76cc3)
 Rule Engine with Abstract Syntax Tree (AST)
 Project Overview
 This project implements a Rule Engine that allows users to define rules based on conditions like age, department, salary, and experience. These rules are parsed into an Abstract Syntax Tree (AST), visualized for the user, and then evaluated against input data. The frontend is built using React, while the backend is built with Flask and Python. The communication between the frontend and backend is handled via RESTful API calls.
